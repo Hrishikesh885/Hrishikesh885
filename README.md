@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrishikesh885
 - 👀 I’m interested in coding,security and basically building things by myself.
-- 🌱 I’m currently learning android studio, doing my diploma from thakur polytechnic and industrial training from static int at the same time am doing a course on ethical hacking from internshala.
+- 🌱 I’m currently learning android studio, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
